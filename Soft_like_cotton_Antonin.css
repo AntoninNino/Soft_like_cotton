@@ -1,0 +1,9 @@
+body {background-color: #fef8f2;}
+body {text-align: center;}
+body {font-family: 'Roboto', sans-serif;}
+img {width: 360px; height: 270px}
+h1 {font-size: 30pt}
+h3 {font-size: 15pt}
+#titre1 {text-shadow: 3px 3px 2px #000000}
+.border {padding:2px; border:2px solid #676767;}
+.textcolor {color: #3c3e3e;}
